@@ -1,0 +1,2 @@
+serviceClass: animacion.client.GreetingService
+path: 72BB87356299ACD285E8B1D96F7D68AD.gwt.rpc
